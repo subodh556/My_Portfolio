@@ -28,8 +28,8 @@ export default async function handler(
         
         try {
             await transporter.sendMail({
-                from: email as string, // Replace with your email
-                to: process.env.YOUR_EMAIL as string, // Replace with your email
+                from: process.env.YOUR_EMAIL as string, // Replace with your email
+                to: process.env.SENDER as string, // Replace with your email
                 subject:  `${name.toUpperCase()} sent you a message from Portfolio`,
                 text: msg,
               });
