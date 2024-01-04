@@ -31,7 +31,7 @@ export default async function handler(
                 from: email as string, // Replace with your email
                 to: process.env.YOUR_EMAIL as string, // Replace with your email
                 subject:  `${name.toUpperCase()} sent you a message from Portfolio`,
-                text: `Email => ${email}`
+                text: msg,
               });
             res.status(200).json({ message: "Your message was sent successfully." });
         } catch (err) {
