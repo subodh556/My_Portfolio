@@ -1,0 +1,194 @@
+{
+  "main": {
+    "name": "Subodh Sohoni",
+    "shortDesc": "I focus on developing user-friendly web applications.",
+    "titles": [
+      "Frontend Development",
+      "Backend Development"
+    ],
+    "heroImage": "https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg",
+    "techStackImages": [
+      "https://img.icons8.com/color/144/000000/material-ui.png",
+      "https://img.icons8.com/color/144/000000/html-5--v1.png",
+      "https://img.icons8.com/color/144/000000/redux.png",
+      "https://img.icons8.com/color/144/000000/chakra-ui.png"
+    ]
+  },
+  "about": {
+    "aboutImage": "https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg",
+    "aboutImageCaption": "< I am a developer 🚀/>",
+    "title": "Frontend Developer",
+    "about": "I am a driven and enthusiastic student pursuing a degree in computer science with a strong interest in software engineering. With a solid foundation in c++ , Python , Html , CSS , Javascript , ReactJS , NextJs. I am eager to apply my knowledge and skills to develop innovative solutions that solve real-world problems. I am excited to contribute my skills and passion to a dynamic team where I can continue to develop my technical expertise and make a meaningful impact in the field of software engineering",
+    "callUrl": "",
+    "resumeUrl": ""
+  },
+  "socials": [
+    {
+      "name": "Linkedin",
+      "icon": "FaLinkedin",
+      "link": "https://www.linkedin.com/in/subodh-shirish-sohoni-a0b594206/"
+    },
+    {
+      "name": "Github",
+      "icon": "FaGithub",
+      "link": "https://github.com/subodh556"
+    },
+    {
+      "name":"Instagram",
+      "icon":"FaInstagram",
+      "link":"https://www.instagram.com/it_is_subodh/"
+    },
+    {
+      "name":"Twitter",
+      "icon":"FaTwitter",
+      "link":"https://twitter.com/Subodh3S"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "image": "/html.png",
+      "category": "Frontend"
+    },
+    {
+      "name": "CSS",
+      "image": "/CSS.png",
+      "category": "Frontend"
+    },
+    
+    {
+      "name": "JavaScript",
+      "image": "https://img.icons8.com/color/144/null/javascript--v1.png",
+      "category": "Frontend"
+    },
+    {
+      "name": "ReactJS",
+      "image": "/react.png",
+      "category": "Frontend"
+    }
+    ,
+    {
+      "name": "NextJS",
+      "image": "/nextjs.png",
+      "category": "Frontend"
+    },
+    {
+      "name": "Tailwind",
+      "image": "/tailwind.png",
+      "category": "Frontend"
+    },
+    {
+      "name": "TypeScript",
+      "image": "/typescript.png",
+      "category": "Frontend"
+    },
+    {
+      "name": "NodeJs",
+      "image": "/node.png",
+      "category": "Backend"
+    },
+    {
+      "name": "ExpressJs",
+      "image": "/express.png",
+      "category": "Backend"
+    },
+    {
+      "name": "MongoDB",
+      "image": "/mongo.png",
+      "category": "Backend"
+    },
+    {
+      "name": "GitHub",
+      "image": "https://img.icons8.com/material-outlined/96/null/github.png",
+      "category": "Tools"
+    },
+    {
+      "name": "VsCode",
+      "image": "/visual.png",
+      "category": "Tools"
+    }
+
+  ],
+  "projects": [
+    
+    {
+      "name": "NextJS Projects" ,
+      "techstack": "NextJs , NodeJS , MongoDB ,Tailwind ",
+      "category": "NextJS",
+      "image": "/next.png",
+      "links": {
+        "code": "https://github.com/subodh556/React_Projects",
+        "video": "",
+        "visit": ""
+      }
+    },
+    {
+      "name": "ReactJS Projects",
+      "techstack": "HTML5, CSS3, JavaScript , ReactJS",
+      "category": "ReactJS",
+      "image": "/reactjs.png",
+      "links": {
+        "code": "https://github.com/subodh556/React_Projects",
+        "video": "",
+        "visit": ""
+      }
+    },
+    {
+      "name": "Weather App",
+      "techstack": "HTML5, CSS3, JavaScript",
+      "category": "Javacript",
+      "image": "/weather.png",
+      "links": {
+        "code": "https://github.com/subodh556/Weather_App",
+        "video": "",
+        "visit": "https://subodh556.github.io/Weather_App/"
+      }
+    },
+    {
+      "name": "Thought Bubble",
+      "techstack": "HTML5, CSS3, JavaScript",
+      "category": "Javacript",
+      "image": "/thought.jpg",
+      "links": {
+        "code": "https://github.com/subodh556/Thought_Bubble",
+        "video": "",
+        "visit": "https://subodh556.github.io/Thought_Bubble/"
+      }
+    },
+    {
+      "name": "Rock Paper Scissor",
+      "techstack": "HTML5, CSS3, JavaScript",
+      "category": "Javacript",
+      "image": "/rock.png",
+      "links": {
+        "code": "https://github.com/subodh556/Rock_Paper_Scissor",
+        "video": "",
+        "visit": "https://subodh556.github.io/Rock_Paper_Scissor/"
+      }
+    },
+    {
+      "name": "Password Checker",
+      "techstack": "HTML5, CSS3, JavaScript",
+      "category": "Javacript",
+      "image": "/pass.png",
+      "links": {
+        "code": "https://github.com/subodh556/Password_Checker",
+        "video": "",
+        "visit": "https://subodh556.github.io/Password_Checker/"
+      }
+    },
+    {
+      "name": "Filtering Images",
+      "techstack": "HTML5, CSS3, JavaScript",
+      "category": "Javacript",
+      "image": "/filter.jpg",
+      "links": {
+        "code": "https://github.com/subodh556/Filtering_Images",
+        "video": "",
+        "visit": "https://subodh556.github.io/Filtering_Images/"
+      }
+    }
+    
+    
+  ]
+}
