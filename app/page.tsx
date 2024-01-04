@@ -5,9 +5,9 @@ import HomePage from "./HomePage"
 
 import data from 'data.json';
 
-export default async function page() {
 
-  
+
+export default async function page() {
 
   return (
     <>
