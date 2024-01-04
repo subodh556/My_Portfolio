@@ -1,7 +1,7 @@
 'use client';
 import './globals.css'
 import { Poppins } from '@next/font/google'
-
+import { ThemeProvider } from 'next-themes'
 import { Analytics } from '@vercel/analytics/react';
 
 const poppins = Poppins({
@@ -18,13 +18,13 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head />
-      
+      <ThemeProvider attribute='class' defaultTheme='black'>
         <body className={`${poppins.className} font-poppins bg-gray-100/50 dark:bg-grey-900 text-black dark:text-white overflow-x-hidden`}>
           {/* <body className='bg-gray-100/50 dark:bg-grey-900 text-black dark:text-white overflow-x-hidden'> */}
           {children}
           <Analytics />
         </body>
-      
+      </ThemeProvider>
     </html>
   )
 }
