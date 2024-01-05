@@ -112,14 +112,25 @@
   "projects": [
     
     {
-      "name": "NextJS Projects" ,
-      "techstack": "NextJs , NodeJS , MongoDB ,Tailwind ",
+      "name": "Gaming Cart" ,
+      "techstack": "NextJs , React-js , Nodejs , Redux-Toolkit ",
       "category": "NextJS",
-      "image": "/next.png",
+      "image": "/cart.jpg",
       "links": {
-        "code": "https://github.com/subodh556/React_Projects",
+        "code": "https://github.com/subodh556/Gaming_Cart",
         "video": "",
-        "visit": ""
+        "visit": "https://gaming-cart.vercel.app"
+      }
+    },
+    {
+      "name": "NetMingle" ,
+      "techstack": "NextJs ,Typescript , Mongodb , Prisma",
+      "category": "NextJS",
+      "image": "/netmingle.jpg",
+      "links": {
+        "code": "https://github.com/subodh556/NetMingle",
+        "video": "",
+        "visit": "https://netmingle.vercel.app/"
       }
     },
     {
