@@ -111,8 +111,8 @@
   ],
   "projects": [
     {
-      "name": "Gaming Cart" ,
-      "techstack": "NextJs , React-js , Nodejs , Redux-Toolkit ",
+      "name": "Netflix Clone" ,
+      "techstack": "NextJs , React-js , Nodejs , Typescript ",
       "category": "NextJS",
       "image": "/cart.jpg",
       "links": {
