@@ -110,7 +110,17 @@
 
   ],
   "projects": [
-    
+    {
+      "name": "Gaming Cart" ,
+      "techstack": "NextJs , React-js , Nodejs , Redux-Toolkit ",
+      "category": "NextJS",
+      "image": "/cart.jpg",
+      "links": {
+        "code": "https://github.com/subodh556/Gaming_Cart",
+        "video": "",
+        "visit": "https://gaming-cart.vercel.app"
+      }
+    },
     {
       "name": "Gaming Cart" ,
       "techstack": "NextJs , React-js , Nodejs , Redux-Toolkit ",
