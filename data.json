@@ -123,14 +123,14 @@
       }
     },
     {
-      "name": "NetMingle" ,
+      "name": "Post It" ,
       "techstack": "NextJs ,Typescript , Mongodb , Prisma",
       "category": "NextJS",
       "image": "/netmingle.jpg",
       "links": {
-        "code": "https://github.com/subodh556/NetMingle",
+        "code": "https://github.com/subodh556/PostIt",
         "video": "",
-        "visit": "https://netmingle.vercel.app/"
+        "visit": "https://postitt.vercel.app/"
       }
     },
     {
