@@ -124,9 +124,9 @@
     },
     {
       "name": "Movie Mingle" ,
-      "techstack": "NextJs , React-js , Nodejs , Redux-Toolkit ",
+      "techstack": "NextJs , React-js , Nodejs , Mongodb , Prisma",
       "category": "NextJS",
-      "image": "/cart.jpg",
+      "image": "/move.jpg",
       "links": {
         "code": "https://github.com/subodh556/Gaming_Cart",
         "video": "",
