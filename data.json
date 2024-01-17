@@ -123,6 +123,17 @@
       }
     },
     {
+      "name": "Movie Mingle" ,
+      "techstack": "NextJs , React-js , Nodejs , Redux-Toolkit ",
+      "category": "NextJS",
+      "image": "/cart.jpg",
+      "links": {
+        "code": "https://github.com/subodh556/Gaming_Cart",
+        "video": "",
+        "visit": "https://gaming-cart.vercel.app"
+      }
+    },
+    {
       "name": "Post It" ,
       "techstack": "NextJs ,Typescript , Mongodb , Prisma",
       "category": "NextJS",
