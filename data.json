@@ -111,7 +111,61 @@
   ],
   "projects": [
     
-    
+    {
+      "name": "Weather App",
+      "techstack": "HTML5, CSS3, JavaScript",
+      "category": "Javacript",
+      "image": "/weather.png",
+      "links": {
+        "code": "https://github.com/subodh556/Weather_App",
+        "video": "",
+        "visit": "https://subodh556.github.io/Weather_App/"
+      }
+    },
+    {
+      "name": "Thought Bubble",
+      "techstack": "HTML5, CSS3, JavaScript",
+      "category": "Javacript",
+      "image": "/thought.jpg",
+      "links": {
+        "code": "https://github.com/subodh556/Thought_Bubble",
+        "video": "",
+        "visit": "https://subodh556.github.io/Thought_Bubble/"
+      }
+    },
+    {
+      "name": "Rock Paper Scissor",
+      "techstack": "HTML5, CSS3, JavaScript",
+      "category": "Javacript",
+      "image": "/rock.png",
+      "links": {
+        "code": "https://github.com/subodh556/Rock_Paper_Scissor",
+        "video": "",
+        "visit": "https://subodh556.github.io/Rock_Paper_Scissor/"
+      }
+    },
+    {
+      "name": "Password Checker",
+      "techstack": "HTML5, CSS3, JavaScript",
+      "category": "Javacript",
+      "image": "/pass.png",
+      "links": {
+        "code": "https://github.com/subodh556/Password_Checker",
+        "video": "",
+        "visit": "https://subodh556.github.io/Password_Checker/"
+      }
+    },
+    {
+      "name": "Filtering Images",
+      "techstack": "HTML5, CSS3, JavaScript",
+      "category": "Javacript",
+      "image": "/filter.jpg",
+      "links": {
+        "code": "https://github.com/subodh556/Filtering_Images",
+        "video": "",
+        "visit": "https://subodh556.github.io/Filtering_Images/"
+      }
+    },
     {
       "name": "ReactJS Projects",
       "techstack": "HTML5, CSS3, JavaScript , ReactJS",
