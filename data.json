@@ -188,17 +188,7 @@
         "visit": "https://gaming-cart.vercel.app"
       }
     },
-    {
-      "name": "Movie Mingle" ,
-      "techstack": "NextJs , React-js , Nodejs , Mongodb , Prisma",
-      "category": "NextJS",
-      "image": "/move.jpg",
-      "links": {
-        "code": "https://github.com/subodh556/Movie_Mingle",
-        "video": "",
-        "visit": "https://movieminglle.vercel.app/auth"
-      }
-    },
+    
     {
       "name": "Post It" ,
       "techstack": "NextJs ,Typescript , Mongodb , Prisma",
