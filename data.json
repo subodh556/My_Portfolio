@@ -198,7 +198,19 @@
         "video": "",
         "visit": "https://movieminglle.vercel.app/auth"
       }
+    },
+    {
+      "name": "Post It" ,
+      "techstack": "NextJs ,Typescript , Mongodb , Prisma",
+      "category": "NextJS",
+      "image": "/netmingle.jpg",
+      "links": {
+        "code": "https://github.com/subodh556/PostIt",
+        "video": "",
+        "visit": "https://postitt.vercel.app/"
+      }
     }
+    
     
     
   ]
