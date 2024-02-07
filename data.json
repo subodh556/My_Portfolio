@@ -167,9 +167,9 @@
       }
     },
     {
-      "name": "ReactJS Projects",
-      "techstack": "HTML5, CSS3, JavaScript , ReactJS",
-      "category": "MERN",
+      "name": "Ecommerce Website",
+      "techstack": "ReactJS , Redux Toolkit , Mongodb , Nodejs",
+      "category": "MERN Stack",
       "image": "/reactjs.png",
       "links": {
         "code": "https://github.com/subodh556/React_Projects",
