@@ -29,8 +29,18 @@ const Hero = () => {
           </span>
           <span className="equal">=</span>
           <span className="attributeValue text-yellow-700">{'"Subodh Sohoni"'}</span>
-          <span className="closeAngleBracket text-gray-500">{'/>'}</span>
+          
+          
         </p>
+        <p className="attributeText flex gap-1 text-2xl lg:text-4xl">
+        <span className="attributeName text-blue-400">
+            title
+          </span>
+          <span className="equal">=</span>
+          <span className="attributeValue text-yellow-700">{'"Frontend Developer"'}</span>
+          <span className="closeAngleBracket text-gray-500 ">{'/>'}</span>
+        </p>
+        
         
       </motion.div>
       <motion.div
