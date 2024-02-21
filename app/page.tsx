@@ -1,7 +1,5 @@
 import { FaNodeJs } from "react-icons/fa"
 import HomePage from "./HomePage"
-// import { ref, get } from "firebase/database"
-// import { database } from "@/firebase"
 
 import data from 'data.json';
 
