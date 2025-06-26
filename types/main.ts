@@ -31,8 +31,11 @@ type about = {
     aboutImageCaption: string,
     title: string,
     about: string,
+    aboutt: string,
+    abouttt: string,
+    aboutttt: string,
     resumeUrl: string,
-    callUrl: string
+    callUrl: string,
 }
 
 type social = {

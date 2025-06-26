@@ -17,8 +17,11 @@
   "about": {
     "aboutImage": "https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg",
     "aboutImageCaption": "< I am a developer 🚀/>",
-    "title": "Frontend Developer",
-    "about": "I am a driven and enthusiastic student pursuing a degree in computer science with a strong interest in software engineering. With a solid foundation in c++ , Python , Html , CSS , Javascript , ReactJS , NextJs. I am eager to apply my knowledge and skills to develop innovative solutions that solve real-world problems. I am excited to contribute my skills and passion to a dynamic team where I can continue to develop my technical expertise and make a meaningful impact in the field of software engineering",
+    "title": "Full Stack Developer",
+    "about": "Hi, I'm Subodh — a Full Stack Developer with over 2 years of hands-on experience building scalable, high-impact web applications. I've worked as a Full Stack Developer at Enzen, Hyderabad, where I led the development of robust front-end and back-end systems across multiple internal and client-facing projects.",
+    "aboutt": "My core stack includes Next.js, TypeScript, React, Node.js, and Prisma, and I specialize in building full-stack SaaS platforms powered by modern infrastructure (Vercel, Supabase, GCP). I also bring strong expertise in AI integrations, including LLMs, RAG pipelines, and multi-agent systems using tools like LangChain, CrewAI, and LangGraph.",
+    "abouttt": "Recently, I've built AI Gallery, a creative AI platform featuring music generation, code generation, video production, chatbot integrations, and Stripe-powered monetization. I also launched Brieview, an AI-powered video call platform that allows users to host real-time meetings with custom AI agents, generate summaries and transcripts via background jobs, and offer full post-call experiences — from searchable transcripts and video playback to AI-driven Q&A and meeting insights. Both products are built using bleeding-edge tools like Next.js 15, Tailwind v4, Shadcn/UI, Inngest, Stream SDKs, and OpenAI.",
+    "aboutttt": "I was also a finalist in Flipkart Grid 5.0, where I tackled real-world technical challenges under pressure. Right now, I'm channeling all this experience into freelance work — helping fast-moving teams build intelligent, scalable, and production-grade web applications.",
     "callUrl": "",
     "resumeUrl": ""
   },
@@ -45,6 +48,36 @@
     }
   ],
   "skills": [
+    {
+      "name": "GitHub",
+      "image": "https://img.icons8.com/material-outlined/96/null/github.png",
+      "category": "Tools"
+    },
+    {
+      "name": "VsCode",
+      "image": "/visual.png",
+      "category": "Tools"
+    },
+    {
+      "name": "Vercel",
+      "image": "/vercel.png",
+      "category": "Tools"
+    },
+    {
+      "name": "Clerk",
+      "image": "/clerk.png",
+      "category": "Tools"
+    },
+    {
+      "name": "Stripe",
+      "image": "/stripe.png",
+      "category": "Tools"
+    },
+    {
+      "name": "Polar",
+      "image": "/polar.jpg",
+      "category": "Tools"
+    },
     {
       "name": "HTML",
       "image": "/html.png",
@@ -83,6 +116,11 @@
       "category": "Frontend"
     },
     {
+      "name": "ShacnUI",
+      "image": "/shadcn.png",
+      "category": "Frontend"
+    },
+    {
       "name": "NodeJs",
       "image": "/node.png",
       "category": "Backend"
@@ -98,83 +136,93 @@
       "category": "Backend"
     },
     {
-      "name": "GitHub",
-      "image": "https://img.icons8.com/material-outlined/96/null/github.png",
-      "category": "Tools"
+      "name": "Supabase",
+      "image": "/supabase.png",
+      "category": "Backend"
     },
     {
-      "name": "VsCode",
-      "image": "/visual.png",
-      "category": "Tools"
+      "name": "NeonDB",
+      "image": "/neon.png",
+      "category": "Backend"
+    },
+    {
+      "name": "Prisma",
+      "image": "/prisma.png",
+      "category": "Backend"
+    },
+    {
+      "name": "Drizzle",
+      "image": "/drizzle.png",
+      "category": "Backend"
+    },
+    {
+      "name": "OpenAI",
+      "image": "/openai.png",
+      "category": "AI"
+    },
+    {
+      "name": "Grok",
+      "image": "/grok.png",
+      "category": "AI"
+    },
+    {
+      "name": "Langchain",
+      "image": "/langchain.png",
+      "category": "AI"
+    },
+    {
+      "name": "Langgraph",
+      "image": "/langgraph.png",
+      "category": "AI"
+    },
+    {
+      "name": "Langsmith",
+      "image": "/langsmith.png",
+      "category": "AI"
+    },
+    {
+      "name": "HuggingFace",
+      "image": "/huggingface.png",
+      "category": "AI"
+    },
+    {
+      "name": "Gemini",
+      "image": "/gemini.png",
+      "category": "AI"
     }
-
   ],
   "projects": [
-    
     {
-      "name": "Weather App",
-      "techstack": "HTML5, CSS3, JavaScript",
-      "category": "Javacript",
-      "image": "/weather.png",
+      "name": "AI Gallery" ,
+      "techstack": "NextJs ,Typescript, Zod, Zustand, TailwindCSS, Prisma, Stripe, OpenAI, Crisp-SDK, Clerk",
+      "category": "AI",
+      "image": "/gallery.jpg",
       "links": {
-        "code": "https://github.com/subodh556/Weather_App",
+        "code": "https://github.com/subodh556/AI_Gallery",
         "video": "",
-        "visit": "https://subodh556.github.io/Weather_App/"
+        "visit": "https://gallery2ai.vercel.app/"
       }
     },
     {
-      "name": "Thought Bubble",
-      "techstack": "HTML5, CSS3, JavaScript",
-      "category": "Javacript",
-      "image": "/thought.jpg",
+      "name": "Career Path" ,
+      "techstack": "NextJs ,Typescript, TailwindCSS, llama",
+      "category": "AI",
+      "image": "/career.jpg",
       "links": {
-        "code": "https://github.com/subodh556/Thought_Bubble",
+        "code": "https://github.com/subodh556/CareerPath",
         "video": "",
-        "visit": "https://subodh556.github.io/Thought_Bubble/"
+        "visit": "https://careerpath1.vercel.app"
       }
     },
     {
-      "name": "Rock Paper Scissor",
-      "techstack": "HTML5, CSS3, JavaScript",
-      "category": "Javacript",
-      "image": "/rock.png",
+      "name": "Brieview" ,
+      "techstack": "NextJs ,Typescript, TailwindCSS, NeonDB, Polar, Inngest,BetterAuth, DrizzleORM, OpenAI",
+      "category": "AI",
+      "image": "/brieview.jpg",
       "links": {
-        "code": "https://github.com/subodh556/Rock_Paper_Scissor",
+        "code": "http://github.com/subodh556/brieview",
         "video": "",
-        "visit": "https://subodh556.github.io/Rock_Paper_Scissor/"
-      }
-    },
-    {
-      "name": "Password Checker",
-      "techstack": "HTML5, CSS3, JavaScript",
-      "category": "Javacript",
-      "image": "/pass.png",
-      "links": {
-        "code": "https://github.com/subodh556/Password_Checker",
-        "video": "",
-        "visit": "https://subodh556.github.io/Password_Checker/"
-      }
-    },
-    {
-      "name": "Filtering Images",
-      "techstack": "HTML5, CSS3, JavaScript",
-      "category": "Javacript",
-      "image": "/filter.jpg",
-      "links": {
-        "code": "https://github.com/subodh556/Filtering_Images",
-        "video": "",
-        "visit": "https://subodh556.github.io/Filtering_Images/"
-      }
-    },
-    {
-      "name": "Ecommerce Website",
-      "techstack": "ReactJS , Redux Toolkit , Mongodb , Nodejs",
-      "category": "MERN Stack",
-      "image": "/logo.jpg",
-      "links": {
-        "code": "https://github.com/subodh556/ecommerce",
-        "video": "",
-        "visit": ""
+        "visit": "https://brieview.vercel.app"
       }
     },
     {
@@ -196,7 +244,18 @@
       "links": {
         "code": "https://github.com/subodh556/Movie_Mingle",
         "video": "",
-        "visit": "https://movieminglle.vercel.app/auth"
+        "visit": "https://movieminglle.vercel.app"
+      }
+    },
+    {
+      "name": "TeamSync" ,
+      "techstack": "NextJs 14 , React-js , Nodejs , Typescript, TailwindCSS, Convex, Auth",
+      "category": "NextJS",
+      "image": "/teamsync.jpg",
+      "links": {
+        "code": "https://github.com/subodh556/TeamSync",
+        "video": "",
+        "visit": "https://te-amsync.vercel.app"
       }
     },
     {
@@ -210,6 +269,7 @@
         "visit": "https://postitt.vercel.app/"
       }
     }
+    
     
     
     

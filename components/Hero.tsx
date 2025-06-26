@@ -37,7 +37,7 @@ const Hero = () => {
             title
           </span>
           <span className="equal">=</span>
-          <span className="attributeValue text-yellow-700">{'"Frontend Developer"'}</span>
+          <span className="attributeValue text-yellow-700">{'"Full Stack Developer"'}</span>
           <span className="closeAngleBracket text-gray-500 ">{'/>'}</span>
         </p>
         
